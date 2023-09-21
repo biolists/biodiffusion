@@ -37,7 +37,7 @@ Methods that from noise sample protein structures, e.g. backbones.
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/jasonkyuyim/se3_diffusion)
   [![](https://img.shields.io/badge/arxiv-2302.02277-lightgrey)](https://arxiv.org/abs/2302.02277)
     - Backbone diffusion
-  - FrameDiff
+  - Genie
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/aqlaboratory/genie)
   [![](https://img.shields.io/badge/arxiv-2301.12485-lightgrey)](https://arxiv.org/abs/2301.12485)
     - Backbone diffusion
