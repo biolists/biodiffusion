@@ -47,6 +47,7 @@ Methods that from noise sample sequences, e.g. residue unmasking.
   - EvoDiff
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/microsoft/evodiff)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2023.09.11.556673-lightgrey)](https://doi.org/10.1101/2022.09.11.556673)
+    - Masked residue inpaining, conditioned on MSA or single sequence 
 
 ----
 
@@ -56,6 +57,7 @@ Methods that, given an input in modality X, impute a structure output, e.g. from
   - CryoDRGN 
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/ml-struct-bio/cryodrgn)
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs41592--020--01049--4-lightgrey)](https://doi.org/10.1038/s41592-020-01049-4)
+    - CryoEM structure reconstruction
 
 ----
 
