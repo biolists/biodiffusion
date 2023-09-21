@@ -44,10 +44,18 @@ Methods that from noise sample protein structures, e.g. backbones.
 ### Sequence Design
 Methods that from noise sample sequences, e.g. residue unmasking.
 
+  - NOS
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/ngruver/NOS)
+  [![](https://img.shields.io/badge/arxiv-2305.20009-lightgrey)](https://arxiv.org/abs/2305.20009)
+    - Masked residue inpaining
   - EvoDiff
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/microsoft/evodiff)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2023.09.11.556673-lightgrey)](https://doi.org/10.1101/2022.09.11.556673)
-    - Masked residue inpaining, conditioned on MSA or single sequence 
+    - Masked residue inpaining, conditioned on MSA or single sequence
+   - GraDe-IF
+  [![](https://img.shields.io/badge/arxiv-2306.16819-lightgrey)](https://arxiv.org/abs/2306.16819)
+    - Inverse protein folding: from structure to sequence
+
 
 ----
 
@@ -75,6 +83,11 @@ Methods that operate on two molecules and predict an aspect of bidning, e.g. pos
   - NeuralPLexer 
   [![](https://img.shields.io/badge/arxiv-2209.15171-lightgrey)](https://arxiv.org/abs/2209.15171)
     - Small molecule binding
+  - DynamicBind
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/luwei0917/DynamicBind)
+  [![](https://img.shields.io/badge/DOI-10.21203%2Frs.3.rs--3225151-lightgrey)](https://doi.org/10.21203/rs.3.rs-3225151/v1)
+    - Find binding pockets on protein surfaces
+    - NOTE: no code available @ GitHub repo
 
 ----
 
@@ -89,10 +102,15 @@ Methods that generate some entity (e.g. small mol) linking or binding an input e
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/arneschneuing/DiffSBDD)
   [![](https://img.shields.io/badge/arxiv-2210.13695-lightgrey)](https://arxiv.org/abs/2210.13695)
     - Small molecule generation given pocket
-- DiffAB
+  - DiffAB
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/luost26/diffab)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.10.499510-lightgrey)](https://doi.org/10.1101/2022.07.10.499510)
     - Design antibody given antigen structure
+  - DiffBP
+  [![](https://img.shields.io/badge/arxiv-2211.11214-lightgrey)](https://arxiv.org/abs/2211.11214)
+    - Small molecule generation given pocket
+
+
 
 ----
 
