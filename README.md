@@ -89,6 +89,10 @@ Methods that generate some entity (e.g. small mol) linking or binding an input e
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/arneschneuing/DiffSBDD)
   [![](https://img.shields.io/badge/arxiv-2210.13695-lightgrey)](https://arxiv.org/abs/2210.13695)
     - Small molecule generation given pocket
+- DiffAB
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/luost26/diffab)
+  [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.10.499510-lightgrey)](https://doi.org/10.1101/2022.07.10.499510)
+    - Design antibody given antigen structure
 
 ----
 
