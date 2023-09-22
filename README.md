@@ -103,7 +103,7 @@ Methods that, given an input in modality X, impute a sequence output, e.g. from 
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/instadeepai/InstaNovo)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2023.08.30.555055-lightgrey)](https://doi.org/10.1101/2023.08.30.555055)
     - Given proteomics readout, reconstruct peptide sequence
-      
+    - ⚠️ diffusion code not available @ GitHub repo
 ----
 
 <a name="bindpos"></a>
@@ -124,7 +124,7 @@ Methods that operate on two molecules and predict an aspect of bidning, e.g. pos
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/luwei0917/DynamicBind)
   [![](https://img.shields.io/badge/DOI-10.21203%2Frs.3.rs--3225151-lightgrey)](https://doi.org/10.21203/rs.3.rs-3225151/v1)
     - Find binding pockets on protein surfaces
-    - NOTE: no code available @ GitHub repo
+    - ⚠️ no code available @ GitHub repo
 
 ----
 
