@@ -51,7 +51,7 @@ Methods that from noise sample protein structures, e.g. backbones.
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://gitlab.com/mjslee0921/proteinsgm)
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs43588--023--00440--3-lightgrey)](https://doi.org/10.1038/s43588-023-00440-3)
     - diffusion on Ca, rotamer, and other measures
-   
+
 ----
 
 <a name="seqdes"></a>
@@ -79,6 +79,10 @@ Methods that from noise sample sequences, e.g. residue unmasking.
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/Genentech/walk-jump)
   [![](https://img.shields.io/badge/arxiv-2306.12360-lightgrey)](https://arxiv.org/abs/2306.12360)
     - MCMC single step denoising sequence
+  - PepPrCLIP
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/programmablebio/pepprclip)
+  [![](https://img.shields.io/badge/DOI-10.1101%2F2023.06.26.546591-lightgrey)](https://doi.org/10.1101/2023.06.26.546591)
+    - Forward noising ESM2 representations, CLIP based sequence reconstrubction for peptide sequences
 
 ----
 
