@@ -66,7 +66,11 @@ Methods that from noise sample sequences, e.g. residue unmasking.
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/microsoft/evodiff)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2023.09.11.556673-lightgrey)](https://doi.org/10.1101/2022.09.11.556673)
     - Masked residue inpaining, conditioned on MSA or single sequence
-   - GraDe-IF
+  - ProteinGenerator
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/RosettaCommons/protein_generator)
+  [![](https://img.shields.io/badge/DOI-10.1101%2F2023.05.08.539766-lightgrey)](https://doi.org/10.1101/2023.05.08.539766)
+    - Sequence space diffusion
+  - GraDe-IF
   [![](https://img.shields.io/badge/arxiv-2306.16819-lightgrey)](https://arxiv.org/abs/2306.16819)
     - Inverse protein folding: from structure to sequence
   - Anand/Achim
