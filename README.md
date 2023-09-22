@@ -4,6 +4,7 @@
 * [Structure reconstruction](#structrec)
 * [Binding prediction](#bindpos)
 * [Binder generation](#bindgen)
+* [Molecule generation](#molgen)
 
 
 💡 **Notes**
@@ -114,7 +115,22 @@ Methods that generate some entity (e.g. small mol) linking or binding an input e
   [![](https://img.shields.io/badge/arxiv-2211.11214-lightgrey)](https://arxiv.org/abs/2211.11214)
     - Small molecule generation given pocket
 
+----
 
+<a name="molgen"></a>
+### Molecule generation
+Methods that generate some entity (e.g. small mol) unconditionally or conditionally to target specific molecular properties (e.g. 3D molecule generation)
+  - EDM
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
+  [![](https://img.shields.io/badge/arxiv-2203.17003-lightgrey)](https://arxiv.org/abs/2203.17003)
+  - Diffusion Prior Bridges
+  [![](https://img.shields.io/badge/arxiv-2209.00865-lightgrey)](https://arxiv.org/abs/2209.00865)
+  - LDM
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/MinkaiXu/GeoLDM)
+  [![](https://img.shields.io/badge/arxiv-2305.01140-lightgrey)](https://arxiv.org/abs/2305.01140)
+  - GCDM
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/BioinfoMachineLearning/bio-diffusion)
+  [![](https://img.shields.io/badge/arxiv-2302.04313-lightgrey)](https://arxiv.org/abs/2302.04313)
 
 ----
 
