@@ -97,7 +97,7 @@ Methods that, given an input in modality X, impute a structure output, e.g. from
 ----
 
 <a name="seqrec"></a>
-### Structure Reconstruction
+### Sequence Reconstruction
 Methods that, given an input in modality X, impute a sequence output, e.g. from frequency domain to sequence.
   - InstaNovo 
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/instadeepai/InstaNovo)
