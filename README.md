@@ -4,6 +4,7 @@
 * [Structure reconstruction](#structrec)
 * [Binding prediction](#bindpos)
 * [Binder generation](#bindgen)
+* [Molecule generation](#molgen)
 
 
 💡 **Notes**
