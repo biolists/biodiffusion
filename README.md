@@ -2,6 +2,7 @@
 * [Structure design](#structdes)
 * [Sequence design](#seqdes)
 * [Structure reconstruction](#structrec)
+* [Sequence reconstruction](#seqrec)
 * [Binding prediction](#bindpos)
 * [Binder generation](#bindgen)
 * [Molecule generation](#molgen)
@@ -85,6 +86,16 @@ Methods that, given an input in modality X, impute a structure output, e.g. from
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs41592--020--01049--4-lightgrey)](https://doi.org/10.1038/s41592-020-01049-4)
     - CryoEM structure reconstruction
 
+----
+
+<a name="seqrec"></a>
+### Structure Reconstruction
+Methods that, given an input in modality X, impute a sequence output, e.g. from frequency domain to sequence.
+  - InstaNovo 
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/instadeepai/InstaNovo)
+  [![](https://img.shields.io/badge/DOI-10.1101%2F2023.08.30.555055-lightgrey)](https://doi.org/10.1101/2023.08.30.555055)
+    - Given proteomics readout, reconstruct peptide sequence
+      
 ----
 
 <a name="bindpos"></a>
