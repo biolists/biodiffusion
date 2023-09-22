@@ -43,7 +43,14 @@ Methods that from noise sample protein structures, e.g. backbones.
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/aqlaboratory/genie)
   [![](https://img.shields.io/badge/arxiv-2301.12485-lightgrey)](https://arxiv.org/abs/2301.12485)
     - Backbone diffusion
-
+  - Anand/Achim
+  [![](https://img.shields.io/badge/arxiv-2205.15019-lightgrey)](https://arxiv.org/abs/2205.15019)
+    - Backbone or rotamer diffusion
+  - ProteinSGM
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://gitlab.com/mjslee0921/proteinsgm)
+  [![](https://img.shields.io/badge/DOI-10.1038%2Fs43588--023--00440--3-lightgrey)](https://doi.org/10.1038/s43588-023-00440-3)
+    - diffusion on Ca, rotamer, and other measures
+   
 ----
 
 <a name="seqdes"></a>
@@ -61,7 +68,12 @@ Methods that from noise sample sequences, e.g. residue unmasking.
    - GraDe-IF
   [![](https://img.shields.io/badge/arxiv-2306.16819-lightgrey)](https://arxiv.org/abs/2306.16819)
     - Inverse protein folding: from structure to sequence
-
+  - Anand/Achim
+  [![](https://img.shields.io/badge/arxiv-2205.15019-lightgrey)](https://arxiv.org/abs/2205.15019)
+    - Masked residue inpaining
+  - ProteinDT
+  [![](https://img.shields.io/badge/arxiv-2302.04611-lightgrey)](https://arxiv.org/abs/2302.04611)
+    - Conditional (from pLM & text) protein sequence generation
 
 ----
 
