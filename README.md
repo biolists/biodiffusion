@@ -107,7 +107,6 @@ Methods that, given an input in modality X, impute a sequence output, e.g. from 
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/instadeepai/InstaNovo)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2023.08.30.555055-lightgrey)](https://doi.org/10.1101/2023.08.30.555055)
     - Given proteomics readout, reconstruct peptide sequence
-    - ⚠️ diffusion code not available @ GitHub repo
 ----
 
 <a name="bindpos"></a>
